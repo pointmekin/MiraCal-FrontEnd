@@ -1,0 +1,834 @@
+[
+[
+"Almonds (100 g)",
+"อัลมอนด์ (100 ก.)",
+884,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Apple (riped 100 g)",
+"แอปเปิ้ล (สุก 100 ก.)",
+52,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Bacon (baked 100 g)",
+"เบคอน (อบ 100 ก.)",
+548,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Banana (riped 100 g)",
+"กล้วย (สุก 100 ก.)",
+89,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Beef (raw 100 g)",
+"เนื้อวัว (ดิบ 100 ก.)",
+250,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef chuck (raw 100 g)",
+"เนื้อหัวใหล่วัว (ดิบ 100 ก.)",
+277,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef flank (raw 100 g)",
+"เนื้อพื้นท้องวัว (ดิบ 100 ก.)",
+192,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef plate (raw 100 g)",
+"เนื้อหน้าท้องวัว (ดิบ 100 ก.)",
+293,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef round (raw 100 g)",
+"เนื้อสะโพกวัว (ดิบ 100 ก.)",
+182,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef short lion (broiled 100 g)",
+"เนื้อสะโพกวัว (ดิบ 100 ก.)",
+282,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef short ribs  (braised 100 g)",
+"ซี่โครงวัว (ดิบ 100 ก.)",
+471,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef sirlion (broiled 100 g)",
+"เนื้อสันนอกวัว (ดิบ 100 ก.)",
+244,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef tenderloin (roast 100 g)",
+"เนื้อสันในวัว (ดิบ 100 ก.)",
+324,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Beef top sirlion (raw 100 g)",
+"เนื้อสันนอกวัว (ดิบ 100 ก.)",
+244,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Brisket (raw 100 g)",
+"เนื้อเสือร้องไห้ (ดิบ 100 ก.)",
+155,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Cabbage (raw 100 g)",
+"กะหล่ำปลี (ดิบ 100 ก.)",
+25,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Cashew nut (100 g)",
+"เม็ดมะม่วงหิมพานต์ (100 ก.)",
+553,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Cheddar cheese (100 g)",
+"เชดดาร์ชีส (100 ก.)",
+371,
+"no",
+"ingredient",
+"dairy"
+]
+,[
+"Cherry tomato (raw 100 g) ",
+"มะเขือเทศเชอร์รี่ (ดิบ 100 ก.)",
+25,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Chicken breast (raw 100 g)",
+"อกไก่ (ดิบ 100 ก.)",
+165,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Chicken drumstick (raw 100 g)",
+"น่องไก่ (ดิบ 100 ก.)",
+173,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Chicken egg (raw 1 egg) ",
+"ไข่ไก่ (ดิบ 1 ฟอง)",
+70,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Chicken thighs (raw 100 g)",
+"สะโพกไก่ (ดิบ 100 ก.)",
+177,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Chicken wing (raw 100 g)",
+"ปีกไก่ (ดิบ 100 ก.)",
+203,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"DEEZ NUTS",
+"DEEZ NUTS",
+420,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Durian (riped 100 g)",
+"ทุเรียน (สุก 100 ก.)",
+357,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Granola (100 g)",
+"กราโนล่า (สุก 100 ก.)",
+471,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Grape (riped 100 g)",
+"องุ่น (สุก 100 ก.)",
+67,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Green chilli (100 g)",
+"พริกเขียว (100 ก.)",
+40,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Ham (whole roasted 100 g)",
+"แฮม (ย่าง 100 ก.)",
+243,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Hazelnuts (100 g)",
+"เฮเซลนัท (100 ก.)",
+628,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Lamb (raw 100 g)",
+"เนื้อแกะ (ดิบ 100 ก.)",
+294,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Macadamia nuts (100 g)",
+"ถั่วมะคาเดเมีย (100 ก.)",
+718,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Mango (riped 100 g)",
+"มะม่วง (สุก 100 ก.)",
+60,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Milk (whole 3.25% fat 100 g)",
+"นม (ไขมัน 3.25% 100 ก.)",
+61,
+"no",
+"ingredient",
+"dairy"
+]
+,[
+"Mutton (raw 100 g)",
+"เนื้อแกะ (ดิบ 100 ก.)",
+294,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Onion (raw 100 g)",
+"หัวหอม (ดิบ 100 ก.)",
+40,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Oyster sauce (100 g)",
+"ซอสหอยนางรม (100 ก.)",
+51,
+"no",
+"ingredient",
+"flavoring"
+]
+,[
+"Passion fruit (riped 100 g)",
+"เสาวรส (สุก 100 ก.)",
+97,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Pecans nut (100 g)",
+"ถั่วพีแคน (100 ก.)",
+690,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Pineapple (riped 100 g)",
+"สับปะรด (สุก 100 ก.)",
+50,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Pork (raw 100 g)",
+"เนื้อหมู (ดิบ 100 ก.)",
+145,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Pork belly (raw 100 g)",
+"หมูสามชั้น (ดิบ 100 ก.)",
+518,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Pork lion (broiled 100 g)",
+"เนื้อซี่โครงหมู (ย่าง 100 ก.)",
+242,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Pork spareribs (broiled 100 g)",
+"ซี่โครงหมู (ย่าง 100 ก.)",
+318,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Potato (raw 100 g)",
+"มันฝรั่ง (ดิบ 100 ก.)",
+77,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Pumpkin (raw 100 g)",
+"ฟักทอง (ดิบ 100 ก.)",
+26,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Quail egg (raw 1 egg) ",
+"ไข่นกกระทา (ดิบ 1 ฟอง.)",
+15,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Rice (raw 100 g)",
+"ข้าว (ดิบ 100 ก.)",
+130,
+"no",
+"ingredient",
+"grains"
+]
+,[
+"Soy sauce (100 g)",
+"ซีอิ๊ว (100 ก.)",
+53,
+"no",
+"ingredient",
+"flavoring"
+]
+,[
+"Strawberry (riped 100 g)",
+"สตรอเบอร์รี่ (สุก 100 ก.)",
+33,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Sugar (100 g)",
+"น้ำตาล (100 ก.)",
+387,
+"no",
+"ingredient",
+"flavoring"
+]
+,[
+"Tomato (raw 100 g) ",
+"มะเขือเทศ (ดิบ 100 ก.)",
+18,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Turkey meat (raw 100 g)",
+"เนื้อไก่งวง (ดิบ 100 ก.)",
+189,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Yardlong bean (raw 100 g) ",
+"ถั่วฝักยาว (ดิบ 100 ก.)",
+47,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Yogurt (Greek nonfat 100 g)",
+"โยเกิร์ต (กรีก ไม่มีไขมัน 100 ก.)",
+59,
+"no",
+"ingredient",
+"dairy"
+]
+,[
+"Bread (Bagel 100 g)",
+"ขนมปัง (เบเกิล 100 ก.)",
+250,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Banana bread (100 g)",
+"ขนมปังกล้วย (100 ก.)",
+326,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Bread (pumpernickel 100 g)",
+"ขนมปัง (ข้าวไร 100 ก.)",
+250,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Bread (rye 100 g)",
+"ขนมปัง (ข้าวไรย์ 100 ก.)",
+259,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Bread (toasted 100 g)",
+"ขนมปังปิ้ง (100 ก.)",
+313,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Bread (white 100 g)",
+"ขนมปัง (ขาว 100 ก.)",
+265,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Croissant (butter 100 g)",
+"ครัวซองต์ (เนย 100 ก.)",
+406,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"English muffins (100 g)",
+"มัฟฟินอังกฤษ (100 ก.)",
+235,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Focaccia (100 g)",
+"ขนมปังโฟคาเซีย  (100 ก.)",
+250,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Garlic bread (100 g)",
+"ขนมปังกระเทียม (100 ก.)",
+350,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Pita bread (white unenriched 100 g)",
+"ขนมปัง Pita (ขาว 100 ก.)",
+275,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Raisin bread (100 g)",
+"ขนมปังลูกเกด (100 ก.)",
+274,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Small bread (100 g)",
+"ขนมปังขนาดเล็ก (100 ก.)",
+310,
+"no",
+"ingredient",
+"carb"
+]
+,[
+"Sausage (pork and beef Polish smoked 100 g)",
+"ไส้กรอกโปแลนด์ (หมูและเนื้อ รมควัน 100 กรัม)",
+301,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Hot dog (pork 100 g)",
+"ฮอทดอก (เนื้อหมู 100 กรัม)",
+269,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Sausage (beef cooked 100 g)",
+"ไส้กรอก (เนื้อวัว สุก 100 กรัม)",
+331,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (whole 1/4'' fat 100 g)",
+"เนื้อแกะ (ไขมัน 1/4 นิ้ว 100 กรัม)",
+230,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (loin 1/4'' fat 100 g)",
+"เนื้อซี่โครงแกะ (ไขมัน 1/4 นิ้ว 100 กรัม)",
+310,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (shoulder whole 0.25 inch fat 100 g)",
+"เนื้อแกะ (ไหล่ ทั้งหมด ไขมัน 1/4 นิ้ว 100 กรัม)",
+264,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (0.25 inches fat 100 g)",
+"เนื้อแกะ (ไขมัน 1/4 นิ้ว 100 กรัม)",
+267,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (heart 100g)",
+"หัวใจแกะ ( 100 กรัม)",
+122,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (kidney 100 g)",
+"ไตแกะ (100 กรัม)",
+97,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"Lamb (liver 100 g)",
+"ตับแกะ (100 กรัม)",
+139,
+"no",
+"ingredient",
+"meat"
+]
+,[
+"White mushroom (100 g)",
+"เห็ดขาว (100 กรัม)",
+22,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Artichokes (100 g)",
+"อาร์ติโช้ค (100 กรัม)",
+47,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Asparagus (100 g)",
+"หน่อไม้ฝรั่ง (100 กรัม)",
+20,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Brussels sprouts (100 g)",
+"บรัสเซลส์ถั่วงอก (100 กรัม)",
+43,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Cauliflower (100 g)",
+"กะหล่ำดอก (100 กรัม)",
+25,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Ginger (root 100 g)",
+"ขิง (100 กรัม)",
+80,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Green bean (100 g)",
+"ถั่วเขียว (100 กรัม)",
+31,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Leeks (100 g)",
+"ต้นกระเทียม (100 ก.)",
+61,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Lettuce (green leaf 100 g)",
+"ผักกาดหอม (ใบเขียว 100 กรัม)",
+15,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Raddish (100 g)",
+"หัวใช้เท้า (100 ก.)",
+16,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Shallots (100 g)",
+"หอมแดง (100 กรัม)",
+72,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Fava beans (raw 100 g)",
+"ถั่วฟาวา (ดิบ 100 กรัม)",
+88,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Rhubarb  (100 g)",
+"รูบาร์บ (100 กรัม)",
+21,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Scallions (100 g)",
+"ต้นหอม (100 กรัม)",
+32,
+"no",
+"ingredient",
+"veggies"
+]
+,[
+"Avocados (100 g)",
+"อะโวคาโด (100 กรัม)",
+160,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Cherry (red 100 g)",
+"เชอร์รี่ (แดง 100 กรัม)",
+50,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Chilli (red 100 g)",
+"พริก (แดง 100 กรัม)",
+40,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Eggplant (100 g)",
+"มะเขือยาว (100 กรัม)",
+25,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Kiwi (100 g)",
+"กีวี่ (100 กรัม)",
+61,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Lemon (100 g)",
+"เลม่อน (100 กรัม)",
+66,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Lychee (100 g)",
+"ลิ้นจี่ (100 กรัม)",
+66,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Peach  (100 g)",
+"พีช (100 กรัม)",
+39,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Watermelon (100 g)",
+"แตงโม (100 กรัม)",
+30,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Zucchini (100 g)",
+"ซูกินี่ (100 กรัม)",
+17,
+"no",
+"ingredient",
+"fruit"
+]
+,[
+"Jalapeno pepper (100 g)",
+"พริกจาลาเปโน่ (100 กรัม)",
+28,
+"no",
+"ingredient",
+"fruit"
+]
+]

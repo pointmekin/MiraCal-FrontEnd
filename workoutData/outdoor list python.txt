@@ -1,0 +1,13 @@
+[["Planting seedlings, shrubs","ปลูกต้นไม้: ต้นกล้า",2.132352941,"-0.904411765","no","outdoor"],
+["Raking Lawn","พรวนดินในสวน",2.132352941,"-0.904411765","no","outdoor"],
+["Sacking grass or leaves","ตัดหญ้า",2.132352941,"-0.904411765","no","outdoor"],
+["Gardening: general","ทำสวน: ทั่วไป",2.426470588,"-3.580882353","no","outdoor"],
+["Mowing Lawn: push, power","ตัดหญ้า: เครื่องตัดหญ้า",2.426470588,"-3.580882353","no","outdoor"],
+["Operate Snow Blower: walking","ใช้เครื่องละลายหิมะ",2.426470588,"-3.580882353","no","outdoor"],
+["Plant trees","ปลูกต้นไม้",2.426470588,"-3.580882353","no","outdoor"],
+["Gardening: weeding","กำจัดวัชพืช",2.426470588,"1.419117647","no","outdoor"],
+["Carrying & stacking wood","แบกไม้",2.647058824,"-0.088235294","no","outdoor"],
+["Digging, spading dirt","ขุดดิน",2.647058824,"-0.088235294","no","outdoor"],
+["Mowing Lawn: push, hand","ตัดหญ้า: ด้วยมือ",2.867647059,"3.404411765","no","outdoor"],
+["Chopping & splitting wood","ตัดไม้",3.161764706,"0.727941177","no","outdoor"],
+["Shoveling Snow: by hand","ขุดหิมะ",3.161764706,"0.727941177","no","outdoor"]]

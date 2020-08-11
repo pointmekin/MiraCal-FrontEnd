@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581516421996",
+    "firebase_url": "https://miracalapp-e1718.firebaseio.com",
+    "project_id": "miracalapp-e1718",
+    "storage_bucket": "miracalapp-e1718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581516421996:android:2e76bc46350d58d2ae2149",
+        "android_client_info": {
+          "package_name": "com.bigbrain.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581516421996-qg8png5argtackqib117l6iaohgfkd0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigbrain.flutter_app",
+            "certificate_hash": "b2afd5abe4938c2fabba4837736f86efb7db486a"
+          }
+        },
+        {
+          "client_id": "581516421996-fpo8ot5gvi9137dm1b9tp3hm5p39rh3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-196nL2Y1qjSY4VQQA9DZqYWX3PPezw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581516421996-fpo8ot5gvi9137dm1b9tp3hm5p39rh3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

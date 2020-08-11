@@ -1,0 +1,402 @@
+[
+[
+"A&W Root Beer 355 ml",
+"A&W รูทเบียร์ 355 ml",
+170,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Coca-Cola 325 ml",
+"โค้ก 325 ml",
+140,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Coca-Cola Zero 325 ml",
+"โค้กซีโร่ 325 ml",
+0,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Fanta Orange 325 ml",
+"แฟนต้าส้ม 325 ml",
+180,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Fanta Red 325 ml",
+"แฟนต้าแดง 325 ml",
+200,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Fanta Green 325 ml",
+"แฟนต้าเขียว 325 ml",
+200,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Sprite 325 ml",
+"สไปรท์ 325 ml",
+130,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Sprite no sugar 325 ml",
+"สไปรท์ ไม่มีน้ำตาล 325 ml",
+0,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Sponsor 325 ml",
+"สปอนเซอร์ 325 ml",
+140,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Schweppes Lime Soda 330 ml",
+"ชเวปส์ มะนาวโซดา 330 ml",
+170,
+"no",
+"drink",
+"Soft drink"
+]
+,[
+"Iced Coffee with Milk 16 oz (Grande)",
+"กาแฟเย็นใส่นม 16 oz (Grande)",
+110,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Black Coffee 16 oz (Grande)",
+"กาแฟเย็น 16 oz (Grande)",
+80,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Caffè Latte 16 oz (Grande)",
+"ลาเต้เย็น 16 oz (Grande)",
+130,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Caramel Macchiato 16 oz (Grande)",
+"คาราเมลมัคคิอาโตเย็น 16 oz (Grande)",
+250,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Caffè Americano 16 oz (Grande)",
+"อเมริกาโนเย็น 16 oz (Grande)",
+15,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Caffè Mocha 16 oz (Grande)",
+"มอคค่าเย็น 16 oz (Grande)",
+350,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Espresso 1.5 oz (Doppio)",
+"เอสเพรสโซ่ร้อน 1.5 oz (Doppio)",
+10,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Caffè Americano 16 oz (Grande)",
+"อเมริกาโนร้อน 16 oz (Grande)",
+15,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Cappuccino 16 oz (Grande)",
+"คาปูชิโน่ร้อน 16 oz (Grande)",
+120,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Caffè Latte 16 oz (Grande)",
+"ลาเต้ร้อน 16 oz (Grande)",
+190,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Caramel Macchiato 16 oz (Grande)",
+"คาราเมลมัคคิอาโตร้อน 16 oz (Grande)",
+250,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Hot Caffè Mocha 16 oz (Grande)",
+"มอคค่าร้อน 16 oz (Grande)",
+360,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Coffee Frappuccino 16 oz (Grande)",
+"กาแฟปั่น 16 oz (Grande)",
+230,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Espresso Frappuccino 16 oz (Grande)",
+"เอสเพรสโซ่ปั่น 16 oz (Grande)",
+210,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Mocha Frappuccino 16 oz (Grande)",
+"มอคค่าปั่น 16 oz (Grande)",
+370,
+"no",
+"drink",
+"Coffee"
+]
+,[
+"Iced Black Tea 16 oz (Grande)",
+"ชาดำเย็น (Black Tea) 16 oz (Grande)",
+45,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Iced Matcha Green Tea Latte 16 oz (Grande)",
+"ลาเต้ชาเขียวเย็น 16 oz (Grande)",
+200,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Iced Green Tea 16 oz (Grande)",
+"ชาเขียวเย็น 16 oz (Grande)",
+45,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Hot Earl Grey Tea 16 oz (Grande)",
+"ชาเอิร์ลเกรย์ร้อน 16 oz (Grande)",
+0,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Hot Matcha Green Tea Latte 16 oz (Grande)",
+"ลาเต้ชาเขียวร้อน 16 oz (Grande)",
+240,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Matcha Green Tea Crème Frappuccino 16 oz (Grande)",
+"ชาเขียวปั่นใส่วิปครีม 16 oz (Grande)",
+410,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Iced Lemon Tea 200 ml",
+"ชามะนาว 200 ml",
+100,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Thai Iced Tea 200 ml",
+"ชาไทยเย็น/ชานมเย็น 200 ml",
+319,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Thai Black Tea 200 ml",
+"ชาดำเย็น 200 ml",
+110,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Bubble Milk Tea 200 ml",
+"ชานมไข่มุก 200 ml",
+360,
+"no",
+"drink",
+"Tea"
+]
+,[
+"Double Chocolaty Chip Crème Frappuccino 16 oz (Grande)",
+"ช็อคโกแลตปั่น 16 oz (Grande)",
+400,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Hot Chocolate 16 oz (Grande)",
+"ช็อคโกแลตร้อน 16 oz (Grande)",
+400,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Iced Chocolate 200 ml",
+"ช็อคโกแลตเย็น 200 ml",
+334,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Pink Milk 200 ml",
+"นมชมพูเย็น 200 ml",
+425,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Soy Milk 200 ml",
+"นมถั่วเหลือง 200 ml",
+140,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Fermented Milk 80 ml",
+"นมเปรี้ยว 80 ml",
+71,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Milk 225 ml",
+"นมจืด 225 ml",
+150,
+"no",
+"drink",
+"Cold drink"
+]
+,[
+"Orange Juice 240 ml",
+"น้ำส้มคั้น 240 ml",
+110,
+"no",
+"drink",
+"Juice"
+]
+,[
+"Tomato Juice 240 ml",
+"น้ำมะเขือเทศ 240 ml",
+42,
+"no",
+"drink",
+"Juice"
+]
+,[
+"Coconut Juice 240 ml",
+"น้ำมะพร้าว 240 ml",
+120,
+"no",
+"drink",
+"Juice"
+]
+,[
+"Strawberry juice 240 ml",
+"น้ำสตอเบอร์รี่ 240 ml",
+90,
+"no",
+"drink",
+"Juice"
+]
+,[
+"Lemon Juice 240 ml",
+"น้ำมะนาว 240 ml",
+53,
+"no",
+"drink",
+"Juice"
+]
+,[
+"Beer Regular 355 ml",
+"เบียร์ 355 ml",
+153,
+"no",
+"drink",
+"Alcohol"
+]
+,[
+"Whiskey (80 proof) 45 ml",
+"วิสกี้ 40 ดีกรี 45 ml",
+97,
+"no",
+"drink",
+"Alcohol"
+]
+,[
+"Red Wine 5 oz",
+"ไวน์แดง 5 oz",
+125,
+"no",
+"drink",
+"Alcohol"
+]
+]

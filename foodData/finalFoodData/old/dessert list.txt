@@ -1,0 +1,1018 @@
+[
+[
+"Cheesecake (100 g)",
+"ชีสเค้ก (100 ก.)",
+321,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chocolate cake without frosting (100 g)",
+"เค้กช็อคโกแลต (ไม่มีไอซ์ซิ่ง 100 ก.)",
+371,
+"no",
+"dessert",
+"international"
+]
+,[
+"Fruit cake (100 g)",
+"เค้กผลไม้ (100 ก.)",
+324,
+"no",
+"dessert",
+"international"
+]
+,[
+"Pan cake (100 g)",
+"แพนเค้ก (100 ก.)",
+227,
+"no",
+"dessert",
+"international"
+]
+,[
+"Pound cake (butter 100 g)",
+"เค้กปอนด์ (เนย 100 ก.)",
+388,
+"no",
+"dessert",
+"international"
+]
+,[
+"Pound cake (fatMiraCalfree 100 g)",
+"เค้กปอนด์ (ปราศจากไขมัน 100 ก.)",
+283,
+"no",
+"dessert",
+"international"
+]
+,[
+"Shortcake (100 g)",
+"ชอร์ทเค้ก (100 ก.)",
+346,
+"no",
+"dessert",
+"international"
+]
+,[
+"Sponge cake (100 g)",
+"สปันจ์เค้ก (100 ก.)",
+297,
+"no",
+"dessert",
+"international"
+]
+,[
+"Foy thong (1 set)",
+"ฝอยทอง (1 แพ)",
+220,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Med kanoon (1 piece)",
+"เม็ดขนุน (1 เม็ด)",
+40,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thong yod (1 piece)",
+"ทองหยอด (1 ชิ้น)",
+30,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thong yib (1 piece)",
+"ทองหยิบ (1 ชิ้น)",
+60,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Mango with sticky rice (1 serving)",
+"ข้าวเหนียวมะม่วง (1 จาน)",
+350,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sarim (1 serving)",
+"ซ่าหริ่ม (1 ถ้วย)",
+275,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Lodchong in coconut milk (1 serving)",
+"ลอดช่องน้ำกะทิ (1 ถ้วย)",
+135,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Pandan coconut milk jelly (1 piece)",
+"วุ้นกะทิใบเตย (1 ชิ้น)",
+135,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Kanom thuay (1 piece)",
+"ขนมถ้วย (1 ชิ้น)",
+125,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai candied banana with coconut milk (1 piece)",
+"กล้วยไข่เชื่อม (1 ผล)",
+140,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sticky rice with custard (1 serving)",
+"ข้าวเหนียวสังขยา (1  ห่อ)",
+370,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Coconut milk ice cream (1 serving)",
+"ไอศกรีมกะทิ (1 ถ้วย)",
+330,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Kanom krok (1 piece)",
+"ขนมครก (1 ชิ้น)",
+50,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Kanom beung (1 piece)",
+"ขนมเบื้อง (1 ชิ้น)",
+60,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Banana in cococnut milk (1 serving)",
+"กล้วยบวชชี (1 จาน)",
+250,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Chocolate brownie (100 g)",
+"ช็อกโกแลตบราวนี่ (100 ก.)",
+466,
+"no",
+"dessert",
+"international"
+]
+,[
+"Waffle (100 g)",
+"วาฟเฟิล (100 ก.)",
+291,
+"no",
+"dessert",
+"international"
+]
+,[
+"Dark chocolate (100 g)",
+"ดาร์กช็อกโกแลต (100 ก.)",
+546,
+"no",
+"dessert",
+"international"
+]
+,[
+"White chocolate (100 g)",
+"ไวท์ช็อกโกแลต (100 ก.)",
+539,
+"no",
+"dessert",
+"international"
+]
+,[
+"Milk chocolate (100 g)",
+"ช็อกโกแลตนม (100 ก.)",
+535,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (vanilla 100 g)",
+"ไอศกรีม (วานิลลา 100 ก.)",
+207,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (strawberry 100 g)",
+"ไอศกรีม (สตรอเบอร์รี่ 100 ก.)",
+192,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (chocolate 100 g)",
+"ไอศกรีม (ช็อคโกแลต 100 ก.)",
+216,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (chocolate light 100 g)",
+"ไอศกรีม (ช็อคโกแลต สูตรไขมันต่ำ 100 ก.)",
+187,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (vanilla fatMiraCalfree 100 g)",
+"ไอศกรีม (วานิลลาปราศจากไขมัน 100 ก.)",
+138,
+"no",
+"dessert",
+"international"
+]
+,[
+"Ice cream (vanilla light 100 g)",
+"ไอศกรีม (วานิลลา สูตรไขมันต่ำ 100 ก.)",
+180,
+"no",
+"dessert",
+"international"
+]
+,[
+"Muffins (blueberry 100 g)",
+"มัฟฟิน (บลูเบอร์รี่ 100 ก.)",
+377,
+"no",
+"dessert",
+"international"
+]
+,[
+"Muffins (corn 100 g)",
+"มัฟฟิน (ข้าวโพด 100 ก.)",
+305,
+"no",
+"dessert",
+"international"
+]
+,[
+"Muffins (oat bran 100 g)",
+"มัฟฟิน (รำข้าวโอ๊ต 100 ก.)",
+270,
+"no",
+"dessert",
+"international"
+]
+,[
+"Muffins (plain 100 g)",
+"มัฟฟิน (ธรรมดา 100 ก.)",
+296,
+"no",
+"dessert",
+"international"
+]
+,[
+"Muffins (wheat bran raisins 100 g)",
+"มัฟฟิน (รำข้าวสาลี ลูกเกด 100 ก.)",
+295,
+"no",
+"dessert",
+"international"
+]
+,[
+"Look choup (100 g)",
+"ลูกชุบ (100 ก.)",
+600,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Cookie (butter 100 g)",
+"คุกกี้ (เนย 100 กรัม)",
+467,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chocolate chip cookie (100 g)",
+"คุกกี้ช็อกโกแลตชิป (100 กรัม)",
+488,
+"no",
+"dessert",
+"international"
+]
+,[
+"Fortune cookie (100 g)",
+"คุกกี้เสี่ยงทาย (100 กรัม)",
+378,
+"no",
+"dessert",
+"international"
+]
+,[
+"Macaroons (with coconut 100 g)",
+"มาการอง (ใส่มะพร้าว 100 กรัม)",
+404,
+"no",
+"dessert",
+"international"
+]
+,[
+"Oatmeal raisin cookie (100 g)",
+"คุกกี้ข้าวโอ๊ตลูกเกด (100 กรัม)",
+435,
+"no",
+"dessert",
+"international"
+]
+,[
+"Peanut butter cookie (100 g)",
+"คุกกี้เนยถั่ว (100 กรัม)",
+475,
+"no",
+"dessert",
+"international"
+]
+,[
+"Shortbread cookie (100 g)",
+"คุกกี้บิสกิต (100 กรัม)",
+502,
+"no",
+"dessert",
+"international"
+]
+,[
+"Doughnut (1 piece)",
+"โรตีสายไหม (1 ชิ้น)",
+173,
+"no",
+"dessert",
+"international"
+]
+,[
+"Greentea brownie (1 piece)",
+"โรตีสายไหม (1 ชิ้น)",
+137,
+"no",
+"dessert",
+"international"
+]
+,[
+"Glutinous rice pandan dumplings stuffed with candied and smoked coconut (1 piece)",
+"ขนมต้ม  (1 ชิ้น)",
+52,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai layer dessert (1 piece)",
+"โรตีสายไหม (1 ชิ้น)",
+115,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai pudding with coconut topping (1 serving)",
+"ตะโก้  (1 ชิ้น)",
+78,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Durian sticky rice (1 serving)",
+"ข้าวเหนียวทุเรียน",
+340,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Crispy coconut crepe (30 g)",
+"ทองม้วนกรอบ   (30 ก.)",
+140,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Soft coconut crepe (1 piece)",
+"โรตีสายไหม (1 ชิ้น)",
+83,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai cotton candy (1 piece)",
+"โรตีสายไหม (1 ชิ้น)",
+145,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Fried roti (1 serving)",
+"โรตีทอด (แบบอาบัง)",
+590,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Bingsu (M)",
+"บิงซู (1 ชาม)",
+300,
+"no",
+"dessert",
+"international"
+]
+,[
+"Bingsu (L)",
+"บิงซู  (1 ชาม)",
+750,
+"no",
+"dessert",
+"international"
+]
+,[
+"Crepe (1 piece)",
+"เครป (1 ชิ้น.)",
+145,
+"no",
+"dessert",
+"international"
+]
+,[
+"Pudding (100 g)",
+"พุดดิ้ง (100 ก.)",
+120,
+"no",
+"dessert",
+"international"
+]
+,[
+"Granola (100 g)",
+"กราโนล่า (100 ก.)",
+471,
+"no",
+"dessert",
+"international"
+]
+,[
+"Banoffee (1 serving)",
+"บานอฟฟี่ (1 ชิ้น)",
+400,
+"no",
+"dessert",
+"international"
+]
+,[
+"Pana cotta (100 g)",
+"พานาคอตต้า (100 ก.)",
+223,
+"no",
+"dessert",
+"international"
+]
+,[
+"Tiramisu (1 piece)",
+"ทีรามิสุ (1 ชิ้น)",
+492,
+"no",
+"dessert",
+"international"
+]
+,[
+"Apple Crumble Cake (1 piece)",
+"แอปเปิ้ลครัมเบิลเค้ก (1 ชิ้น)",
+229,
+"no",
+"dessert",
+"international"
+]
+,[
+"Moji (1 piece)",
+"โมจิ (1 ชิ้น)",
+50,
+"no",
+"dessert",
+"international"
+]
+,[
+"Daifuku (1 roll)",
+"ไดฟูกุ (1 ชิ้น)",
+232,
+"no",
+"dessert",
+"international"
+]
+,[
+"Thai Caramel (1 piece)",
+"กาละแม (1 ชิ้น)",
+65,
+"no",
+"dessert",
+"international"
+]
+,[
+"Croissant (S)",
+"ครัวซองต์ (1 ชิ้น)",
+171,
+"no",
+"dessert",
+"international"
+]
+,[
+"Croissant (L)",
+"ครัวซองต์ (1 ชิ้น)",
+296,
+"no",
+"dessert",
+"international"
+]
+,[
+"Water chestnuts in syrup and coconut milk (185 g)",
+"ทับทิมกรอบ (185 g)",
+276,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Coconut maracoon (1 piece)",
+"บ้าบิ่น (1 ชิ้น)",
+130,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai sweetmeat made of flour egg and sugar (100 g)",
+"ขนมผิง (100 ก.)",
+297,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Nipa palm dessert (100 g)",
+"ขนมจาก (100 ก.)",
+400,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sweet stuffed dough ( 1 piece)",
+"ขนมใส่ไส้ (1 ชิ้น)",
+136,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Chilled Santol in scented Syrup (1 serving)",
+"กระท้อนลอยแก้ว (1 ถ้วย)",
+200,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Snake fruit in syrup (1 serving)",
+"สละลอยแก้ว (1 ถ้วย)",
+150,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Rambutan stuffed pineapple (1 can)",
+"เงาะยัดไส้สับปะรด (1 ถ้วย)",
+120,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Khanom Tarn (1 piece)",
+"ขนมตาล (1 ชิ้น)",
+32,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai filled with coconut milk and banana (1 pair)",
+"ข้าวต้มมัด (1 ชิ้น)",
+320,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai sweet sticky rice with dried fish  (1 Serving)",
+"ข้าวเหนียวหน้าปลาแห้ง (1. มัด)",
+180,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai sweet sticky rice with dried shrimp (1 Serving)",
+"ข้าวเหนียวหน้ากุ้ง (1 มัด)",
+180,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Choux cream (1 piece)",
+"ชูครีม (1 ชิ้น)",
+220,
+"no",
+"dessert",
+"international"
+]
+,[
+"Eclair (100 g)",
+"เอแคลร์ (100 ก.)",
+334,
+"no",
+"dessert",
+"international"
+]
+,[
+"Nama chocolate (1 piece)",
+"นามะ ช็อกโกแลต (1 ชิ้น)",
+30,
+"no",
+"dessert",
+"international"
+]
+,[
+"Name green tea (1 piece)",
+"นามะ ชาเขียว (1 ชิ้น)",
+31,
+"no",
+"dessert",
+"international"
+]
+,[
+"Deep fried dough stick (1 piece)",
+"ปาท่องโก๋ (1 ชิ้น)",
+69,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Meringue (1 tart)",
+"เมอแรงค์ (1 ชิ้น)",
+398,
+"no",
+"dessert",
+"international"
+]
+,[
+"Scone (100 g)",
+"สโคน (100 ก.)",
+353,
+"no",
+"dessert",
+"international"
+]
+,[
+"Banana cake (1 serving)",
+"เค้กกล้วยหอม (1 ชิ้น)",
+256,
+"no",
+"dessert",
+"international"
+]
+,[
+"Turkish delight (100 g)",
+"เตอร์กิช ดีไลท์ (100 ก.)",
+255,
+"no",
+"dessert",
+"international"
+]
+,[
+"Sweet sago with camtaloupe (1 serving)",
+"สาคูแคนตาลูป (1  ถ้วย)",
+160,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai tea crepe (1 piece)",
+"เครปเค้กชาไทย (1 ชิ้น)",
+156,
+"no",
+"dessert",
+"international"
+]
+,[
+"Green tea crepe (1 piece)",
+"เครปเค้กชาเขียว (1 ชิ้น)",
+156,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chocolate crepe  (1 piece)",
+"เครปเค้กช็อกโกแลต (1 ชิ้น)",
+156,
+"no",
+"dessert",
+"international"
+]
+,[
+"Horlick crepe  (1 piece)",
+"เครปเค้กฮอลิค (1 ชิ้น)",
+156,
+"no",
+"dessert",
+"international"
+]
+,[
+"Jam roll (1 piece)",
+"แยมโรล (1 ชิ้น)",
+120,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chffon cake (100 g)",
+"ชิฟฟ่อนเค้ก (100 ก.)",
+297,
+"no",
+"dessert",
+"international"
+]
+,[
+"Thai custard bread (1 piece)",
+"ขนมปังสังขยา (1 ชิ้น)",
+235,
+"no",
+"dessert",
+"thailand"
+]
+,[
+" Stewed  pumpkin coconut milk (1 serving)",
+"ฟักทองแกงบวช (1 ถ้วย)",
+165,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sweet sticky rice with longan (1 serving)",
+"ข้าวเหนียวเปียกลำไย (1 มัด)",
+356,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sweet sticky rice with black peas (1 serving)",
+"ข้าวเหนียวถั่วดำ (1 มัด)",
+279,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Green beans in syrup (1 serving)",
+"ถั่วเขียวต้มน้ำตาล (1 ถ้วย)",
+160,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai mung bean pudding (1 serving)",
+"เต้าส่วน (1 ถ้วย)",
+431,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"soybean curd (1 serving)",
+"เต้าฮวยนมสด (1 ถ้วย)",
+218,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai glutinous rice balls (1 serving)",
+"บัวลอย (1 ถ้วย)",
+367,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Season cake in coconut milk (1 serving)",
+"ครองแครงน้ำกะทิ (1  ถ้วย)",
+250,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Egg custard with mung bean flour (1 seving)",
+"ขนมหม้อแกง (1 ถาด)",
+102,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Corn flakes (1 cup)",
+"คอร์นเฟล็ก (1 ชาม)",
+100,
+"no",
+"dessert",
+"international"
+]
+,[
+"Taotheung (1 serving)",
+"เต้าทึง (1 ถ้วย)",
+130,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai rice flour full cup cake (1 piece)",
+"ขนมถ้วยฟู (1 ชิ้น)",
+32,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Bamboo sticky rice (1 serving)",
+"ข้าวหลาม (1 คู่)",
+230,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Honey toast (1 piece)",
+"ฮันนี่โทสต์ (1 ชิ้น)",
+492,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chocolate lava (100 g)",
+"ช็อกโกแลตลาวา (100 ก.)",
+448,
+"no",
+"dessert",
+"international"
+]
+,[
+"cinnamon roll (100 g)",
+"ซินนามอนโรล (100 ก.)",
+361,
+"no",
+"dessert",
+"international"
+]
+,[
+"Soft mung bean crepe (1 servig)",
+"ถั่วแปป (1 จาน)",
+117,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Soft waffle (1 piece)",
+"ขนมโตเกียว (1 ชิ้น)",
+147,
+"no",
+"dessert",
+"international"
+]
+,[
+"Leum Kleun (1 serving)",
+"ขนมลืมกลืน (1 ถ้วย)",
+326,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Steamed rice flour (1 serving)",
+"ขนมขี้หนู (1 ถ้วย)",
+165,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Sticky rice in banan leaf with syrup (1 serving)",
+"ข้าวต้มน้ําวุ้น (1มัด)",
+240,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"New year's cake (1 piece)",
+"ขนมเข่ง (100 ก.)",
+120,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Thai sweet cereal bar (1 serving)",
+"กระยาสารท (100 ก.)",
+210,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Butter bread (100 g)",
+"ขนมปังเนยสด (100 ก.)",
+269,
+"no",
+"dessert",
+"international"
+]
+,[
+"Chinese cake (100 g)",
+"ขนมเปี๊ยะ (100 ก.)",
+207,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Dried mango paste (100 g)",
+"มะม่วงกวน (100 ก.)",
+340,
+"no",
+"dessert",
+"thailand"
+]
+,[
+"Dred durian paste (100 g)",
+"ทุเรียนกวน (100 ก.)",
+340,
+"no",
+"dessert",
+"thailand"
+]
+]
